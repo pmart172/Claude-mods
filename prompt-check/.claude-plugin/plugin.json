@@ -1,0 +1,1 @@
+{ "name": "prompt-check", "version": "0.1.0", "description": "Adds a Check prompt button above the prompt box that reviews your draft and suggests improvements before you send it.", "types": "./types/index.d.ts" }

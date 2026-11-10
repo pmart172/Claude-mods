@@ -1,0 +1,8 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "pmart172" },
+  "plugins": [
+    { "name": "prompt-check", "source": "./prompt-check", "description": "A Check prompt button above the prompt box that reviews your draft and suggests improvements before you send it." },
+    { "name": "usage-meter", "source": "./usage-meter", "description": "Always shows how much of your 5-hour and weekly Claude usage limits you have used, above the prompt box." }
+  ]
+}

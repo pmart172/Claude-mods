@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "Always shows how much of your 5-hour and weekly Claude usage limits you have used, above the prompt box.", "types": "./types/index.d.ts" }
